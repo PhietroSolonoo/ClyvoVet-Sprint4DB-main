@@ -1,0 +1,8 @@
+# Pastas de build do .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Arquivo real com senha
+appsettings.json
